@@ -1,0 +1,45 @@
+2025-04-06 01:53:44 [TestNG-PoolService-6] INFO : i am able to enter password
+2025-04-06 01:53:44 [TestNG-PoolService-1] INFO : i am able to  click on login button
+2025-04-06 01:53:44 [TestNG-PoolService-4] INFO : i am able to  click on login button
+2025-04-06 01:53:44 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-06 01:53:45 [TestNG-PoolService-4] INFO : i am able to enter email address
+2025-04-06 01:53:45 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 01:53:45 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:53:45 [TestNG-PoolService-2] INFO : i am able to  click on login button
+2025-04-06 01:53:45 [TestNG-PoolService-4] INFO : i am able to enter password
+2025-04-06 01:53:45 [TestNG-PoolService-2] INFO : i am able to enter email
+2025-04-06 01:53:45 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:53:45 [TestNG-PoolService-2] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-06 01:53:45 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:53:45 [TestNG-PoolService-1] INFO : In this we are quiting webdriver
+2025-04-06 01:53:45 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:53:45 [TestNG-PoolService-2] INFO : In this we are quiting webdriver
+2025-04-06 01:53:47 [TestNG-PoolService-3] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:53:47 [TestNG-PoolService-6] INFO : we are verifying login is sucess or not
+2025-04-06 01:53:47 [TestNG-PoolService-6] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:53:47 [TestNG-PoolService-5] INFO : we are verifying login is sucess or not
+2025-04-06 01:53:47 [TestNG-PoolService-5] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:53:47 [TestNG-PoolService-4] INFO : we are verifying login is sucess or not
+2025-04-06 01:53:47 [TestNG-PoolService-4] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:53:57 [TestNG-PoolService-3] INFO : Scenario is passed:Login to application using invalid username and Password 3
+2025-04-06 01:53:57 [TestNG-PoolService-3] INFO : In this we are quiting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-6] ERROR: test scenario failed:Login to application using invalid username and Password 5
+2025-04-06 01:53:57 [TestNG-PoolService-6] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-5] ERROR: test scenario failed:Login to application using invalid username and Password 5
+2025-04-06 01:53:57 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-6] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-4] ERROR: test scenario failed:Login to application using invalid username and Password 4
+2025-04-06 01:53:57 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-6] INFO : In this we are quiting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-5] INFO : In this we are quiting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:53:57 [TestNG-PoolService-4] INFO : In this we are quiting webdriver
+2025-04-06 01:57:18 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 01:57:20 [TestNG-PoolService-4] INFO : Base class initiated
+2025-04-06 01:57:20 [TestNG-PoolService-5] INFO : Base class initiated
+2025-04-06 01:57:20 [TestNG-PoolService-2] INFO : Base class initiated
+2025-04-06 01:57:20 [TestNG-PoolService-1] INFO : Base class initiated
+2025-04-06 01:57:20 [TestNG-PoolService-3] INFO : Base class initiated

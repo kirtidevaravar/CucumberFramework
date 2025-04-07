@@ -1,0 +1,30 @@
+2025-04-01 23:46:42 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-01 23:46:42 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:46:42 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:46:42 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:51:56 [main] INFO : Base class initiated
+2025-04-01 23:51:56 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:51:56 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:51:57 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:52:00 [main] INFO : open cart application launched successfully
+2025-04-01 23:52:00 [main] INFO : i am able to  click on login button
+2025-04-01 23:52:01 [main] INFO : i am able to enter email
+2025-04-01 23:52:01 [main] INFO :  i am able to enter password
+2025-04-01 23:52:01 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:52:01 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-01 23:52:01 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-01 23:52:01 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:52:46 [main] INFO : Base class initiated
+2025-04-01 23:52:46 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:52:46 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:52:47 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:52:48 [main] INFO : open cart application launched successfully
+2025-04-01 23:52:48 [main] INFO : i am able to  click on login button
+2025-04-01 23:52:48 [main] INFO : i am able to enter email
+2025-04-01 23:52:49 [main] INFO :  i am able to enter password
+2025-04-01 23:52:49 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:52:49 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-01 23:52:59 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-01 23:52:59 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:52:59 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:52:59 [main] INFO : In this we are quiting webdriver

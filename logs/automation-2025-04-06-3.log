@@ -1,0 +1,44 @@
+2025-04-06 01:57:20 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-3] INFO : in this function we are getting webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-2] INFO : in this function we are initiating webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-1] INFO : in this function we are initiating webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-4] INFO : in this function we are initiating webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-3] INFO : in this function we are initiating webdriver
+2025-04-06 01:57:20 [TestNG-PoolService-5] INFO : in this function we are initiating webdriver
+2025-04-06 01:57:23 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:57:23 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:57:23 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:57:23 [TestNG-PoolService-3] INFO : in this function we are getting webdriver
+2025-04-06 01:57:23 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:57:26 [TestNG-PoolService-5] INFO : open cart application launched successfully
+2025-04-06 01:57:26 [TestNG-PoolService-1] INFO : open cart application launched successfully
+2025-04-06 01:57:26 [TestNG-PoolService-2] INFO : open cart application launched successfully
+2025-04-06 01:57:26 [TestNG-PoolService-4] INFO : open cart application launched successfully
+2025-04-06 01:57:26 [TestNG-PoolService-3] INFO : open cart application launched successfully
+2025-04-06 01:57:27 [TestNG-PoolService-2] INFO : i am able to  click on login button
+2025-04-06 01:57:27 [TestNG-PoolService-5] INFO : i am able to  click on login button
+2025-04-06 01:57:27 [TestNG-PoolService-3] INFO : i am able to  click on login button
+2025-04-06 01:57:28 [TestNG-PoolService-1] INFO : i am able to  click on login button
+2025-04-06 01:57:28 [TestNG-PoolService-2] INFO : i am able to enter email
+2025-04-06 01:57:28 [TestNG-PoolService-4] INFO : i am able to  click on login button
+2025-04-06 01:57:28 [TestNG-PoolService-5] INFO : i am able to enter email address
+2025-04-06 01:57:28 [TestNG-PoolService-2] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-06 01:57:28 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:57:28 [TestNG-PoolService-3] INFO : i am able to enter email address
+2025-04-06 01:57:28 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-06 01:57:28 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 01:57:28 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:57:28 [TestNG-PoolService-5] INFO : i am able to enter password
+2025-04-06 01:57:28 [TestNG-PoolService-3] INFO : i am able to enter password
+2025-04-06 01:57:28 [TestNG-PoolService-4] INFO : i am able to enter email address
+2025-04-06 01:57:28 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:57:28 [TestNG-PoolService-4] INFO : i am able to enter password
+2025-04-06 01:57:28 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:57:29 [TestNG-PoolService-2] INFO : In this we are quiting webdriver
+2025-04-06 01:57:29 [TestNG-PoolService-1] INFO : In this we are quiting webdriver
+2025-04-06 01:57:29 [TestNG-PoolService-5] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:57:29 [TestNG-PoolService-3] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 01:57:29 [TestNG-PoolService-4] INFO : in this functio we are verifying the myaccounts page opened or not

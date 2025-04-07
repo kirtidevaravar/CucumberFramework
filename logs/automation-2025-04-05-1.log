@@ -1,0 +1,56 @@
+2025-04-05 11:55:04 [main] INFO : Base class initiated
+2025-04-05 11:55:04 [main] INFO : in this function we are getting webdriver
+2025-04-05 11:55:04 [main] INFO : in this function we are initiating webdriver
+2025-04-05 11:55:06 [main] INFO : in this function we are getting webdriver
+2025-04-05 11:55:08 [main] INFO : open cart application launched successfully
+2025-04-05 11:55:09 [main] INFO : i am able to  click on login button
+2025-04-05 11:55:09 [main] INFO : i am able to enter email
+2025-04-05 11:55:09 [main] INFO :  i am able to enter password
+2025-04-05 11:55:09 [main] INFO : we are verifying login is sucess or not
+2025-04-05 11:55:09 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-05 11:55:10 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-05 11:55:10 [main] INFO : In this we are quiting webdriver
+2025-04-05 12:22:03 [main] INFO : [TestNG] Running:
+  C:\Users\admin\IdeaProjects\CucumberFramework\testng.xml
+
+2025-04-05 12:22:04 [main] INFO : Base class initiated
+2025-04-05 12:22:04 [main] INFO : in this function we are getting webdriver
+2025-04-05 12:22:04 [main] INFO : in this function we are initiating webdriver
+2025-04-05 12:22:06 [main] INFO : in this function we are getting webdriver
+2025-04-05 12:22:07 [main] INFO : open cart application launched successfully
+2025-04-05 12:22:07 [main] INFO : i am able to  click on login button
+2025-04-05 12:22:07 [main] INFO : i am able to enter email
+2025-04-05 12:22:07 [main] INFO :  i am able to enter password
+2025-04-05 12:22:08 [main] INFO : we are verifying login is sucess or not
+2025-04-05 12:22:08 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-05 12:22:08 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-05 12:22:08 [main] INFO : In this we are quiting webdriver
+2025-04-05 12:23:18 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-05 12:23:19 [main] INFO : Base class initiated
+2025-04-05 12:23:19 [main] INFO : in this function we are getting webdriver
+2025-04-05 12:23:19 [main] INFO : in this function we are initiating webdriver
+2025-04-05 12:23:20 [main] INFO : in this function we are getting webdriver
+2025-04-05 12:23:22 [main] INFO : open cart application launched successfully
+2025-04-05 12:23:22 [main] INFO : i am able to  click on login button
+2025-04-05 12:23:22 [main] INFO : i am able to enter email
+2025-04-05 12:23:22 [main] INFO :  i am able to enter password
+2025-04-05 12:23:23 [main] INFO : we are verifying login is sucess or not
+2025-04-05 12:23:23 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-05 12:23:23 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-05 12:23:23 [main] INFO : In this we are quiting webdriver
+2025-04-05 12:31:08 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-05 12:31:09 [TestNG-PoolService-1] INFO : Base class initiated
+2025-04-05 12:31:09 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 12:31:09 [TestNG-PoolService-1] INFO : in this function we are initiating webdriver
+2025-04-05 12:31:11 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 12:31:13 [TestNG-PoolService-1] INFO : open cart application launched successfully
+2025-04-05 12:31:13 [TestNG-PoolService-1] INFO : i am able to  click on login button
+2025-04-05 12:31:13 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-05 12:31:13 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-05 12:31:13 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 12:31:14 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 12:31:14 [TestNG-PoolService-1] INFO : In this we are quiting webdriver

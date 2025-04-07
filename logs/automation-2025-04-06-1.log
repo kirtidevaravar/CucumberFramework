@@ -1,0 +1,48 @@
+2025-04-06 01:36:49 [TestNG-PoolService-5] ERROR: test scenario failed:Login to application using invalid username and Password 5
+2025-04-06 01:36:49 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:36:49 [TestNG-PoolService-5] INFO : In this we are quiting webdriver
+2025-04-06 01:37:01 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 01:37:01 [main] WARN : The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-04-06 01:53:33 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 01:53:34 [TestNG-PoolService-6] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-5] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-4] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-2] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-3] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-1] INFO : Base class initiated
+2025-04-06 01:53:34 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-6] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-3] INFO : in this function we are getting webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-5] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-1] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-2] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-6] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-4] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:34 [TestNG-PoolService-3] INFO : in this function we are initiating webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-5] INFO : in this function we are getting webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-6] INFO : in this function we are getting webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-3] INFO : in this function we are getting webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 01:53:39 [TestNG-PoolService-4] INFO : in this function we are getting webdriver
+2025-04-06 01:53:41 [TestNG-PoolService-3] INFO : open cart application launched successfully
+2025-04-06 01:53:41 [TestNG-PoolService-5] INFO : open cart application launched successfully
+2025-04-06 01:53:42 [TestNG-PoolService-6] INFO : open cart application launched successfully
+2025-04-06 01:53:42 [TestNG-PoolService-4] INFO : open cart application launched successfully
+2025-04-06 01:53:43 [TestNG-PoolService-2] INFO : open cart application launched successfully
+2025-04-06 01:53:43 [TestNG-PoolService-5] INFO : i am able to  click on login button
+2025-04-06 01:53:43 [TestNG-PoolService-3] INFO : i am able to  click on login button
+2025-04-06 01:53:43 [TestNG-PoolService-1] INFO : open cart application launched successfully
+2025-04-06 01:53:43 [TestNG-PoolService-5] INFO : i am able to enter email address
+2025-04-06 01:53:43 [TestNG-PoolService-3] INFO : i am able to enter email address
+2025-04-06 01:53:44 [TestNG-PoolService-5] INFO : i am able to enter password
+2025-04-06 01:53:44 [TestNG-PoolService-6] INFO : i am able to  click on login button
+2025-04-06 01:53:44 [TestNG-PoolService-3] INFO : i am able to enter password
+2025-04-06 01:53:44 [TestNG-PoolService-6] INFO : i am able to enter email address

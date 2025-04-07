@@ -1,0 +1,47 @@
+2025-04-05 22:16:59 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:16:59 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:16:59 [TestNG-PoolService-1] INFO : In this we are quiting webdriver
+2025-04-05 22:18:45 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-05 22:18:46 [TestNG-PoolService-1] INFO : Base class initiated
+2025-04-05 22:18:46 [TestNG-PoolService-2] INFO : Base class initiated
+2025-04-05 22:18:46 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:18:46 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:18:46 [TestNG-PoolService-1] INFO : in this function we are initiating webdriver
+2025-04-05 22:18:46 [TestNG-PoolService-2] INFO : in this function we are initiating webdriver
+2025-04-05 22:18:48 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:18:48 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:18:49 [TestNG-PoolService-2] INFO : open cart application launched successfully
+2025-04-05 22:18:49 [TestNG-PoolService-1] INFO : open cart application launched successfully
+2025-04-05 22:18:49 [TestNG-PoolService-2] INFO : i am able to  click on login button
+2025-04-05 22:18:49 [TestNG-PoolService-1] INFO : i am able to  click on login button
+2025-04-05 22:18:50 [TestNG-PoolService-2] INFO : i am able to enter email
+2025-04-05 22:18:50 [TestNG-PoolService-2] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-05 22:18:50 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:18:50 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-05 22:18:50 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-05 22:18:50 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:18:50 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:18:50 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:18:50 [TestNG-PoolService-1] INFO : In this we are quiting webdriver
+2025-04-05 22:18:50 [TestNG-PoolService-2] INFO : In this we are quiting webdriver
+2025-04-05 22:31:59 [TestNG-PoolService-1] INFO : Base class initiated
+2025-04-05 22:31:59 [TestNG-PoolService-2] INFO : Base class initiated
+2025-04-05 22:31:59 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:31:59 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:31:59 [TestNG-PoolService-1] INFO : in this function we are initiating webdriver
+2025-04-05 22:31:59 [TestNG-PoolService-2] INFO : in this function we are initiating webdriver
+2025-04-05 22:32:00 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:32:00 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:32:01 [TestNG-PoolService-1] INFO : open cart application launched successfully
+2025-04-05 22:32:02 [TestNG-PoolService-2] INFO : open cart application launched successfully
+2025-04-05 22:32:02 [TestNG-PoolService-1] INFO : i am able to  click on login button
+2025-04-05 22:32:02 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-05 22:32:02 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-05 22:32:02 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-05 22:32:02 [TestNG-PoolService-2] INFO : i am able to  click on login button
+2025-04-05 22:32:02 [TestNG-PoolService-2] INFO : i am able to enter email
+2025-04-05 22:32:02 [TestNG-PoolService-2] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-05 22:32:02 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-05 22:32:02 [TestNG-PoolService-1] INFO : in this function we are getting webdriver

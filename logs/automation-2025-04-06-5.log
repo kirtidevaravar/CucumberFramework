@@ -1,0 +1,48 @@
+2025-04-06 02:04:10 [TestNG-PoolService-5] INFO : i am able to  click on login button
+2025-04-06 02:04:10 [TestNG-PoolService-4] INFO : i am able to  click on login button
+2025-04-06 02:04:10 [TestNG-PoolService-2] INFO : i am able to  click on login button
+2025-04-06 02:04:10 [TestNG-PoolService-1] INFO : i am able to enter email
+2025-04-06 02:04:10 [TestNG-PoolService-4] INFO : i am able to enter email address
+2025-04-06 02:04:10 [TestNG-PoolService-3] INFO : i am able to  click on login button
+2025-04-06 02:04:10 [TestNG-PoolService-1] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 02:04:10 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 02:04:10 [TestNG-PoolService-5] INFO : i am able to enter email address
+2025-04-06 02:04:10 [TestNG-PoolService-2] INFO : i am able to enter email
+2025-04-06 02:04:10 [TestNG-PoolService-2] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-06 02:04:10 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 02:04:10 [TestNG-PoolService-4] INFO : i am able to enter password
+2025-04-06 02:04:10 [TestNG-PoolService-5] INFO : i am able to enter password
+2025-04-06 02:04:11 [TestNG-PoolService-3] INFO : i am able to enter email address
+2025-04-06 02:04:11 [TestNG-PoolService-1] INFO : in this function we are getting webdriver
+2025-04-06 02:04:11 [TestNG-PoolService-2] INFO : in this function we are getting webdriver
+2025-04-06 02:04:11 [TestNG-PoolService-3] INFO : i am able to enter password
+2025-04-06 02:04:11 [TestNG-PoolService-1] INFO : In this we are quiting webdriver
+2025-04-06 02:04:11 [TestNG-PoolService-2] INFO : In this we are quiting webdriver
+2025-04-06 02:04:11 [TestNG-PoolService-4] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 02:04:11 [TestNG-PoolService-3] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 02:04:11 [TestNG-PoolService-5] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-06 02:04:13 [TestNG-PoolService-5] INFO : Scenario is passed:Login to application using invalid username and Password 5
+2025-04-06 02:04:13 [TestNG-PoolService-5] INFO : In this we are quiting webdriver
+2025-04-06 02:04:15 [TestNG-PoolService-4] INFO : Scenario is passed:Login to application using invalid username and Password 4
+2025-04-06 02:04:15 [TestNG-PoolService-4] INFO : In this we are quiting webdriver
+2025-04-06 02:04:16 [TestNG-PoolService-3] INFO : Scenario is passed:Login to application using invalid username and Password 3
+2025-04-06 02:04:16 [TestNG-PoolService-3] INFO : In this we are quiting webdriver
+2025-04-06 02:05:32 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 02:05:33 [main] WARN : The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-04-06 02:06:48 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 02:06:49 [main] INFO : Base class initiated
+2025-04-06 02:06:49 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:49 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:06:51 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:52 [main] INFO : open cart application launched successfully
+2025-04-06 02:06:53 [main] INFO : i am able to  click on login button
+2025-04-06 02:06:53 [main] INFO : i am able to enter email
+2025-04-06 02:06:53 [main] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 02:06:53 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:53 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:53 [main] INFO : In this we are quiting webdriver
+2025-04-06 02:06:53 [main] INFO : Base class initiated

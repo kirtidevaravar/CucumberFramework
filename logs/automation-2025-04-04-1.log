@@ -1,0 +1,38 @@
+2025-04-04 11:46:26 [main] INFO : Base class initiated
+2025-04-04 11:46:26 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:46:26 [main] INFO : in this function we are initiating webdriver
+2025-04-04 11:46:28 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:46:29 [main] INFO : open cart application launched successfully
+2025-04-04 11:46:39 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-04 11:46:39 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:46:39 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:46:39 [main] INFO : In this we are quiting webdriver
+2025-04-04 11:49:47 [main] INFO : Base class initiated
+2025-04-04 11:49:47 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:49:47 [main] INFO : in this function we are initiating webdriver
+2025-04-04 11:49:48 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:49:50 [main] INFO : open cart application launched successfully
+2025-04-04 11:50:00 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-04 11:50:00 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:50:00 [main] INFO : in this function we are getting webdriver
+2025-04-04 11:50:00 [main] INFO : In this we are quiting webdriver
+2025-04-04 12:00:02 [main] INFO : Base class initiated
+2025-04-04 12:00:02 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:00:02 [main] INFO : in this function we are initiating webdriver
+2025-04-04 12:00:03 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:00:03 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-04 12:00:03 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:00:03 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:00:03 [main] INFO : In this we are quiting webdriver
+2025-04-04 12:18:34 [main] INFO : Base class initiated
+2025-04-04 12:18:34 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:18:34 [main] INFO : in this function we are initiating webdriver
+2025-04-04 12:18:35 [main] INFO : in this function we are getting webdriver
+2025-04-04 12:18:36 [main] INFO : open cart application launched successfully
+2025-04-04 12:18:36 [main] INFO : i am able to  click on login button
+2025-04-04 12:18:36 [main] INFO : i am able to enter email
+2025-04-04 12:18:37 [main] INFO :  i am able to enter password
+2025-04-04 12:18:37 [main] INFO : we are verifying login is sucess or not
+2025-04-04 12:18:37 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-04 12:18:37 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-04 12:18:37 [main] INFO : In this we are quiting webdriver

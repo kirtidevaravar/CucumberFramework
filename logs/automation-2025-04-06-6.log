@@ -1,0 +1,57 @@
+2025-04-06 02:06:53 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:53 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:06:54 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:56 [main] INFO : open cart application launched successfully
+2025-04-06 02:06:57 [main] INFO : i am able to  click on login button
+2025-04-06 02:06:57 [main] INFO : i am able to enter email
+2025-04-06 02:06:57 [main] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-06 02:06:57 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:57 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:06:57 [main] INFO : In this we are quiting webdriver
+2025-04-06 02:13:10 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 02:13:11 [main] INFO : Base class initiated
+2025-04-06 02:13:11 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:11 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:13:12 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:14 [main] INFO : open cart application launched successfully
+2025-04-06 02:13:14 [main] INFO : i am able to  click on login button
+2025-04-06 02:13:14 [main] INFO : i am able to enter email
+2025-04-06 02:13:14 [main] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 02:13:14 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:15 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:15 [main] INFO : In this we are quiting webdriver
+2025-04-06 02:13:15 [main] INFO : Base class initiated
+2025-04-06 02:13:15 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:15 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:13:16 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:18 [main] INFO : open cart application launched successfully
+2025-04-06 02:13:18 [main] INFO : i am able to  click on login button
+2025-04-06 02:13:18 [main] INFO : i am able to enter email
+2025-04-06 02:13:18 [main] ERROR: test scenario failed:Login to application using valid username and Password 2
+2025-04-06 02:13:18 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:19 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:13:19 [main] INFO : In this we are quiting webdriver
+2025-04-06 02:15:30 [main] INFO : [TestNG] Running:
+  C:\Users\admin\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-04-06 02:15:31 [main] INFO : Base class initiated
+2025-04-06 02:15:31 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:31 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:15:33 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:34 [main] INFO : open cart application launched successfully
+2025-04-06 02:15:34 [main] INFO : i am able to  click on login button
+2025-04-06 02:15:34 [main] INFO : i am able to enter email
+2025-04-06 02:15:34 [main] ERROR: test scenario failed:Login to application using valid username and Password 1
+2025-04-06 02:15:34 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:34 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:35 [main] INFO : In this we are quiting webdriver
+2025-04-06 02:15:35 [main] INFO : Base class initiated
+2025-04-06 02:15:35 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:35 [main] INFO : in this function we are initiating webdriver
+2025-04-06 02:15:36 [main] INFO : in this function we are getting webdriver
+2025-04-06 02:15:36 [main] INFO : open cart application launched successfully
+2025-04-06 02:15:37 [main] INFO : i am able to  click on login button
+2025-04-06 02:15:37 [main] INFO : i am able to enter email
+2025-04-06 02:15:37 [main] ERROR: test scenario failed:Login to application using valid username and Password 2

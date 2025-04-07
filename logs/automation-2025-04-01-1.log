@@ -1,0 +1,54 @@
+2025-04-01 23:14:17 [main] INFO : Base class initiated
+2025-04-01 23:14:17 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:14:17 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:14:17 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-01 23:14:17 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:14:17 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:14:17 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:29:28 [main] INFO : Base class initiated
+2025-04-01 23:29:28 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:29:28 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:29:30 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:29:32 [main] INFO : open cart application launched successfully
+2025-04-01 23:29:32 [main] INFO : i am able to  click on login button
+2025-04-01 23:29:32 [main] INFO : i am able to enter email
+2025-04-01 23:29:32 [main] INFO :  i am able to enter password
+2025-04-01 23:29:32 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:29:32 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-01 23:29:33 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-01 23:29:33 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:32:38 [main] INFO : Base class initiated
+2025-04-01 23:32:38 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:32:38 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:32:40 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:32:42 [main] INFO : open cart application launched successfully
+2025-04-01 23:32:42 [main] INFO : i am able to  click on login button
+2025-04-01 23:32:42 [main] INFO : i am able to enter email
+2025-04-01 23:32:42 [main] INFO :  i am able to enter password
+2025-04-01 23:32:43 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:32:43 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-01 23:32:50 [main] ERROR: test scenario failed:Login to application using valid username and Password
+2025-04-01 23:32:50 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:32:50 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:42:58 [main] INFO : Base class initiated
+2025-04-01 23:42:58 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:42:58 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:42:59 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:43:00 [main] INFO : open cart application launched successfully
+2025-04-01 23:43:01 [main] INFO : i am able to  click on login button
+2025-04-01 23:43:01 [main] INFO : i am able to enter email
+2025-04-01 23:43:01 [main] INFO :  i am able to enter password
+2025-04-01 23:43:01 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:43:01 [main] INFO : in this functio we are verifying the myaccounts page opened or not
+2025-04-01 23:43:02 [main] INFO : Scenario is passed:Login to application using valid username and Password
+2025-04-01 23:43:02 [main] INFO : In this we are quiting webdriver
+2025-04-01 23:46:28 [main] INFO : Base class initiated
+2025-04-01 23:46:28 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:46:28 [main] INFO : in this function we are initiating webdriver
+2025-04-01 23:46:29 [main] INFO : in this function we are getting webdriver
+2025-04-01 23:46:31 [main] INFO : open cart application launched successfully
+2025-04-01 23:46:31 [main] INFO : i am able to  click on login button
+2025-04-01 23:46:31 [main] INFO : i am able to enter email
+2025-04-01 23:46:32 [main] INFO :  i am able to enter password
+2025-04-01 23:46:32 [main] INFO : we are verifying login is sucess or not
+2025-04-01 23:46:32 [main] INFO : in this functio we are verifying the myaccounts page opened or not
