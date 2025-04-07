@@ -64,9 +64,10 @@ public class loginStepDef extends Pageinitializer
 
 
     @And("I need to click on login link")
-    public void iNeedToClickOnLoginLink() {
+    public void iNeedToClickOnLoginLink() throws InterruptedException {
 
         homePage.clickonMyaccount();
+        Thread.sleep(3000);
         homePage.clickonLoginaccout();
         logger.info("i am able to  click on login button");
     }
@@ -101,17 +102,23 @@ public class loginStepDef extends Pageinitializer
     }
 
 
-    @When("user enters email {string} and password {string}")
-    public void user_enters_credentials(String email, String password)
-    {
+
+        @When("user enters email {string} and password {string}")
+        public void user_enters_email_and_password(String email, String password)
+        {
+        // Write code here that turns the phrase above into concrete actions
+        //throw new io.cucumber.java.PendingException();
+
         loginPage.setEmail(email);
         loginPage.setPassword(password);
 
     }
 
-    @Then("The login {string} should be displayed")
-    public void verify_result(String expectedResult)
-    {
+        @Then("The login {string} should be displayed")
+        public void the_login_should_be_displayed(String expectedResult )
+        {
+        // Write code here that turns the phrase above into concrete actions
+        //throw new io.cucumber.java.PendingException();
         switch (expectedResult)
         {
             case "success":

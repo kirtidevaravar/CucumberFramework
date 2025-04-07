@@ -11,11 +11,11 @@ import org.testng.annotations.DataProvider;
 @CucumberOptions(features = {"src/test/resources/feature"},glue = {"stepdefinitition"},
         plugin = {"pretty",
                 "html:target/cucumber.html",
-                "json:target/Cucumber.json",
-                "junit:target/Cucumber.xml",
+              //  "json:target/Cucumber.json",
+              //  "junit:target/Cucumber.xml",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-                "timeline:target/parallel-threads",
-                "rerun:target/failedrerun.txt"
+                //"timeline:target/parallel-threads",
+               // "rerun:target/failedrerun.txt"
         },
         monochrome = true,
         dryRun=false,
@@ -25,14 +25,14 @@ import org.testng.annotations.DataProvider;
         // tags = "@login"
         //tags = "@smoke and not @regression"
         //tags = "@login"
-        tags="@regression")
-//tags = "@DataDriven")
+        //tags="@regression")
+tags = "@DataDriven")
 public class cucumbertestrunner extends AbstractTestNGCucumberTests
 {
-  @Override
-  @DataProvider(parallel = true)
+ // @Override
+ /* @DataProvider(parallel = true)
   public Object[][] scenarios()
   {
           return super.scenarios();
-  }
+  }*/
 }

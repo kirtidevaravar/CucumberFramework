@@ -56,7 +56,7 @@ Feature: Test all login related feature
     And I need to click on login button
     Then  I should not login successfully
 
-  @regression @master @datadriven
+   @DataDriven
   Scenario Outline: User login with different credentials
     Given As a user I want to launch the application
     And I need to click on login link
@@ -65,10 +65,10 @@ Feature: Test all login related feature
     Then The login "<expectedResult>" should be displayed
 
     Examples:
-      | email          | password | expectedResult |  |
-      | vidu@gmail.com | vidu123  | success        |  |
-      | vii@gmail.com  | vidu123  | login error    |  |
-      |                |          | login error    |  |
+      | email          | password | expectedResult |
+      | vidu@gmail.com | vidu123  | success        |
+      | vii@gmail.com  | vidu123  | login error    |
+      |                |          | login error    |
 
 
 
